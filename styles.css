@@ -83,7 +83,9 @@ body {
             }
 
             p span {
-              color: rgba(0,136,169,1);
+              /* color: rgba(0,136,169,1); */
+              color: #4ec251;
+              font-weight:bolder;
             }
 
             li, a, button, p {
@@ -92,6 +94,10 @@ body {
                 font-size: 1rem;
                 color: #ecf0f1;
                 text-decoration: none;
+            }
+
+            .lastelement {
+              margin-bottom: 10rem;
             }
 
             label {
@@ -360,9 +366,13 @@ body {
               .copyclipboard {
                 font-family: "Montserrat", sans-serif;
                   font-weight: 500;
-                  font-size: 1.4rem;
+                  font-size: 1.2rem;
                   color: #ecf0f1;
                   text-decoration: none;
+              }
+
+              .second {
+                margin-top: 0.5rem;
               }
   
   
@@ -379,6 +389,12 @@ body {
                 text-decoration: none;
                 padding-right: 4rem;
               }
+
+              .four {
+                padding-right: 12rem;
+              }
+
+            
           
               .submitbutton {
                   display: flex;
