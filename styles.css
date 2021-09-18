@@ -28,7 +28,7 @@ body {
     .logo {
         margin-right: auto;
         justify-content: flex-start;
-        width: 7rem;
+        width: 9rem;
     }
 
 
@@ -80,6 +80,10 @@ body {
 
             .hamburger {
                 display: none;
+            }
+
+            p span {
+              color: rgba(0,136,169,1);
             }
 
             li, a, button, p {
