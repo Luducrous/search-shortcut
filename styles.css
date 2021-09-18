@@ -110,6 +110,14 @@ body {
                 padding: 30px 10%;
             }
 
+            a img {
+              margin-top: 0.45em;
+            }
+
+            nav {
+              margin-left: auto;
+            }
+
             .logo {
                 cursor: pointer;
                 margin-right: auto;
