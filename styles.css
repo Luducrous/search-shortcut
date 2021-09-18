@@ -159,6 +159,14 @@ body {
                 margin-left: 40px;
             }
 
+            .copyclipboard {
+              font-family: "Montserrat", sans-serif;
+                font-weight: 500;
+                font-size: 1.4rem;
+                color: #ecf0f1;
+                text-decoration: none;
+            }
+
             .bash p {
                 width: 15em;
                 /* font-size:40px; */
@@ -341,6 +349,7 @@ body {
                   padding: 0 1rem;
                   padding-top: 9rem;
                   margin-left: -9.1rem;
+                  padding-left: 8rem;
               }
 
               /* .resultdiv p {
